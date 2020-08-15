@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color:#FFFAFA;    
+    background-size: cover;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: italic;
+    color: silver;
+}
+.topo{
+    background-color: blue;
+    margin: auto;
+    padding: 50px 50px 50px 50px;
+    border: 3px;
+    border-style: black;
+}
+
+.parte1{
+    background-color: white;
+    padding: 15px 15px 15px 15px;
+}
+
+.parte2{
+    background-color: red;
+}
